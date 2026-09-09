@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Latihan\\CodingTest\\CodingTestBSI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE08867-AAA3-406C-A086-A09AD6EC87F8}|CodingTestBSI.csproj|c:\\latihan\\codingtest\\codingtestbsi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE08867-AAA3-406C-A086-A09AD6EC87F8}|CodingTestBSI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE08867-AAA3-406C-A086-A09AD6EC87F8}|CodingTestBSI.csproj|c:\\latihan\\codingtest\\codingtestbsi\\codingtestbsi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEE08867-AAA3-406C-A086-A09AD6EC87F8}|CodingTestBSI.csproj|solutionrelative:codingtestbsi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodingTestBSI",
+              "DocumentMoniker": "C:\\Latihan\\CodingTest\\CodingTestBSI\\CodingTestBSI.csproj",
+              "RelativeDocumentMoniker": "CodingTestBSI.csproj",
+              "ToolTip": "C:\\Latihan\\CodingTest\\CodingTestBSI\\CodingTestBSI.csproj",
+              "RelativeToolTip": "CodingTestBSI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T07:28:06.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Latihan\\CodingTest\\CodingTestBSI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Latihan\\CodingTest\\CodingTestBSI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADwv08AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T07:26:56.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

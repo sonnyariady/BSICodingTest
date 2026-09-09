@@ -1,0 +1,14 @@
+C:\Latihan\CodingTest\CodingTestBSI\bin\Debug\net9.0\CodingTestBSI.exe
+C:\Latihan\CodingTest\CodingTestBSI\bin\Debug\net9.0\CodingTestBSI.deps.json
+C:\Latihan\CodingTest\CodingTestBSI\bin\Debug\net9.0\CodingTestBSI.runtimeconfig.json
+C:\Latihan\CodingTest\CodingTestBSI\bin\Debug\net9.0\CodingTestBSI.dll
+C:\Latihan\CodingTest\CodingTestBSI\bin\Debug\net9.0\CodingTestBSI.pdb
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.AssemblyInfoInputs.cache
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.AssemblyInfo.cs
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.csproj.CoreCompileInputs.cache
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.dll
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\refint\CodingTestBSI.dll
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.pdb
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\CodingTestBSI.genruntimeconfig.cache
+C:\Latihan\CodingTest\CodingTestBSI\obj\Debug\net9.0\ref\CodingTestBSI.dll
